@@ -54,6 +54,7 @@ Skills are namespaced under `hormozi:`. Just type the command:
 | Core Four | `/core-four` | Choosing your primary customer acquisition method |
 | Money Model | `/money-model` | Structuring your revenue model for max profit |
 | Hormozi Review | `/hormozi-review` | Gut-checking any business decision against Hormozi principles |
+| Hormozi Brain | `/hormozi-brain` | Answers grounded in the 12 $100M Playbooks and the 10-stage Scaling Course transcripts |
 
 The skills follow the trilogy's progression:
 
