@@ -24,7 +24,8 @@ Adapted from [antonio-clicktoclose/hormozi-claude-code-brain](https://github.com
 
 | Question | Read |
 |---|---|
-| Offer creation / packaging | `playbooks/pricing.md`, `playbooks/fast-cash.md` |
+| Offer creation / packaging | `frameworks/offer-audit.md` first, then `playbooks/pricing.md`, `playbooks/fast-cash.md` |
+| Offer not selling / "should I add more?" | `frameworks/offer-audit.md` |
 | Sales scripts / closing | `playbooks/closing.md` |
 | Lead generation / outreach | `playbooks/lead-nurture.md`, `playbooks/marketing-machine.md` |
 | Retention / LTV | `playbooks/retention.md`, `playbooks/lifetime-value.md` |
@@ -33,6 +34,19 @@ Adapted from [antonio-clicktoclose/hormozi-claude-code-brain](https://github.com
 | Brand positioning | `playbooks/branding.md` |
 | Copywriting | `frameworks/copywriting-frameworks.md` |
 | Scaling stage | `course-transcripts/` (see stage guide) |
+
+## Offer work: rules
+
+Use these whenever the question is about an offer. The method is in `frameworks/offer-audit.md`.
+
+- **Diagnose before adding.** If an offer isn't selling, don't suggest more features or bonuses. Find the weakest Value Equation variable first.
+- **Outcome, not inputs.** Rewrite any feature list as the result the buyer gets. Apply the "then what?" test.
+- **Proof in numbers.** Ask for counts and results. If there are none, say so and suggest how to get proof. Never invent proof.
+- **Two clocks.** Give the time to first value (aim for day one) and the time to the full outcome, separately.
+- **Start/stop list.** Name what the buyer must start and stop doing. Cut or offset each item. Suggest a time cap where it fits.
+- **Subtraction pass.** Tie every part of the offer to a variable. Recommend cutting the parts that don't move one.
+- **Show the build.** Rewrite the offer statement one layer at a time, then put the before and after side by side.
+- **Product follows copy.** Say what the product must change so the new statement is true.
 
 ## Scaling stage guide
 
